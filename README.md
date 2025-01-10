@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @VGITA777
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning python
+- Hello, welcome to my profile
 
 <!---
 VGITA777/VGITA777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
